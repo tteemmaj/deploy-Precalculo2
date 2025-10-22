@@ -40,4 +40,9 @@
   .barDiv {
     display: none; 
   }
+
+  .contenidosDiv {
+  -ms-overflow-style: none;
+  overscroll-behavior-y: auto;
+}
 }
